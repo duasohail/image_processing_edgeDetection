@@ -2,3 +2,4 @@ its a python image processing project which show image in rgb scale and detect t
 Sobel 
 prewitt
 scharr
+and roberts operators
